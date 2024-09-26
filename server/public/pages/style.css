@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  outline: 1px black;
+}
+form {
+  outline: black 1px;
+}
